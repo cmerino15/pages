@@ -13,6 +13,6 @@
 
 # Todo
 
-[ ] Round correlation coefficient to 2 decimal places
+- [x] Round correlation coefficient to 2 decimal places
 
-[ ] Modify program to allow for a more intuitive data.txt file
+- [ ] Modify program to allow for a more intuitive data.txt file
