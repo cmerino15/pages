@@ -1,6 +1,8 @@
 
 # Pages - a weekly breakdown of your reading habits
 
+![example](images/example.png)
+
 # To Run
 
 - Clone the repository
